@@ -2,15 +2,7 @@
 Nombre del archivo      :       main.py
 Dependencias            :       main.ui, archivos txt o csv
 Ejecución del proyecto  :       python3 main.py
-Materia                 :       Algoritmos y programación
-Docentes                :       Jaime A. Valencia & Álvaro Jaramillo Duque
-Semestre                :       2017-2
-Estudiante 1            :       nombre_estudiante1
-Correo estudiante 1     :       correo_estudiante1
-cédula estudiante 1     :       cédula estudante1
-Estudiante 2            :       nombre_estudiante2
-Correo estudiante 2     :       correo_estudiante2
-cédula estudiante 2     :       cédula estudante2
+Autor                   :       Juan David Arias
 """
 
 #Importamos las librerías necesarias
